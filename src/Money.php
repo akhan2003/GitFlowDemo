@@ -474,3 +474,8 @@ class Money implements \JsonSerializable
         return $currency;
     }
 }
+
+class TestClass
+{
+  /** Test Class */
+}
