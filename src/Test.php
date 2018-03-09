@@ -6,4 +6,6 @@ class Test
     /** this is comment 4 Looks good.**/
     /** feature 2 comment **/
 
+    /**test comment **/
+
 }
